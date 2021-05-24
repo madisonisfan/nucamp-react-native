@@ -9,6 +9,7 @@ import {
   Button,
   Modal,
 } from "react-native";
+import { Input } from "react-native-elements";
 import DateTimePicker from "@react-native-community/datetimepicker";
 
 class Reservation extends Component {
